@@ -18,11 +18,11 @@ Questions
   - Which Channel is contributing maximum to the sales?
   - ighest selling category?
   
-  Process :
-    - Verify data for any missing values and anomalies, and sort out the same.
-    - Made sure data is consistent and clean with respect to data type, data format and values used.
-    - Created pivot tables according to the questions asked.
-    - Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
+Process :
+  - Verify data for any missing values and anomalies, and sort out the same.
+  - Made sure data is consistent and clean with respect to data type, data format and values used.
+  - Created pivot tables according to the questions asked.
+  - Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
     
  Conclusion :
   - Women between age group 30-49 living in cities like Karnataka, UP and Maharashtra are potential customers on platforms Amazon and flipkart.
